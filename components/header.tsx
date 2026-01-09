@@ -19,7 +19,7 @@ export function Header() {
             alt="رونق - معطرات سيارات"
             width={100}
             height={50}
-            className="w-20 sm:w-24 h-auto -mt-5 -ml-6"
+            className="w-20 sm:w-24 h-auto -mt-4 -ml-6"
           />
         </Link>
       </div>
