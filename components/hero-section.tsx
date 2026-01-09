@@ -11,17 +11,16 @@ export function HeroSection() {
       <div className="container relative z-10 py-6 md:py-12 px-4 sm:px-8">
         <div className="flex flex-col md:flex-row-reverse items-center gap-6 md:gap-12">
           {/* Image on the left (شمال) */}
-          <div className="flex-shrink-0 relative w-[90%] sm:w-[60%] md:w-[45%] -mt-16 md:-mt-24">
-
-            <Image
-              src="/images/d8-b5-d9-88-d8-b1-d9-87-20-d8-a7-d9-84-d9-85-d9-88-d9-82-d8-b9.png"
-              alt="فواحة دعائية معلقة"
-              width={550}
-              height={700}
-              className="relative z-10 drop-shadow-2xl w-full h-auto scale-110 md:scale-125 origin-top"
-              priority
-            />
-          </div>
+          <div className="flex-shrink-0 relative w-[95%] sm:w-[80%] md:w-[50%] -mt-10 md:-mt-24">
+  <Image
+    src="/images/d8-b5-d9-88-d8-b1-d9-87-20-d8-a7-d9-84-d9-85-d9-88-d9-82-d8-b9.png"
+    alt="فواحة دعائية معلقة"
+    width={550}
+    height={700}
+    className="relative z-10 drop-shadow-2xl w-full h-auto scale-125 md:scale-150 origin-top"
+    priority
+  />
+</div>
 
           {/* Text on the right (يمين) */}
           <div className="flex-1 space-y-4 md:space-y-6 text-center md:text-right mt-30 md:mt-0">
