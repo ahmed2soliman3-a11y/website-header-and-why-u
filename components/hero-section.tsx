@@ -23,7 +23,7 @@ export function HeroSection() {
 </div>
 
           {/* Text on the right (يمين) */}
-          <div className="flex-1 space-y-4 md:space-y-6 text-center md:text-right mt-30 md:mt-0">
+          <div className="flex-1 space-y-4 md:space-y-6 text-center md:text-right mt-24 md:mt-0">
             <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold leading-tight text-foreground">
               فواحات دعائية تخلّي براندك <span className="text-primary">ينحس</span> قبل ما ينشاف
             </h1>
