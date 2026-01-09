@@ -13,7 +13,7 @@ export function HeroSection() {
           {/* Image on the left (شمال) */}
           <div className="flex-shrink-0 relative w-[95%] sm:w-[80%] md:w-[50%] -mt-20 md:-mt-24">
   <Image
-    src="/images/صوره الموقع.png"
+    src="/images/1.png"
     alt="فواحة دعائية معلقة"
     width={550}
     height={700}
