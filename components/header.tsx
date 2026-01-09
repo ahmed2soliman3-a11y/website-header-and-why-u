@@ -11,7 +11,7 @@ export function Header() {
   const whatsappLink = getWhatsAppLink()
 
   return (
-    <header className="bg-card/70 backdrop-blur-xl mx-3 sm:mx-4 mt-3 sm:mt-3 px-4 sm:px-6 py-2 sm:py-3 flex items-center justify-between shadow-sm rounded-full sticky top-3 sm:top-3 z-50 border border-border/50">
+    <header className="bg-card/70 backdrop-blur-xl mx-3 sm:mx-4 mt-3 sm:mt-3 px-4 sm:px-6 py-3 sm:py-3 flex items-center justify-between shadow-sm rounded-full sticky top-3 sm:top-3 z-50 border border-border/50">
       <div className="flex items-center">
         <Link href="/">
           <Image
