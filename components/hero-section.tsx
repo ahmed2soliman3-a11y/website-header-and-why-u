@@ -11,7 +11,7 @@ export function HeroSection() {
       <div className="container relative z-10 py-6 md:py-12 px-4 sm:px-8">
         <div className="flex flex-col md:flex-row-reverse items-center gap-6 md:gap-12">
           {/* Image on the left (شمال) */}
-          <div className="flex-shrink-0 relative w-[95%] sm:w-[80%] md:w-[50%] -mt-20 md:-mt-24">
+          <div className="flex-shrink-0 relative w-[95%] sm:w-[80%] md:w-[50%] mt-16 md:-mt-24">
   <Image
     src="/images/1.png"
     alt="فواحة دعائية معلقة"
